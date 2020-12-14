@@ -26,5 +26,5 @@ import coloring_algs
 ```
 ## Authors
 [Sam Coleman](https://github.com/sam-coleman)      
-[Emma Mack](https://github.com/emmamack)
+[Emma Mack](https://github.com/emmamack)   
 [Shirin Kuppusamy](https://github.com/s-kuppusamy)
