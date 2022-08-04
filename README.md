@@ -19,7 +19,7 @@ sudo apt-get install python3-matplotlib
 ```
 
 ### Executing Program
-The 2 Jupyter Notebooks contain examples of normal welsh-powell graph coloring and welsh-powell inspired L(2,1) graph coloring
+The 2 Jupyter Notebooks contain examples of normal welsh-powell graph coloring and welsh-powell inspired L(2,1) graph coloring.
 To use the algorithms:
 ```bash
 import coloring_algs
